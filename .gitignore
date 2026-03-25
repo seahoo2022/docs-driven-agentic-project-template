@@ -1,0 +1,29 @@
+# Node / frontend
+node_modules/
+.next/
+dist/
+build/
+
+# Python / backend
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+logs/
+*.log
+
+# Runtime generated files
+runtime/*.tmp
+runtime/*.cache
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Env
+.env
+.env.local
+.env.*.local
